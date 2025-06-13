@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is Matheus Souto and I am a systems analysis and development student from SP, Brazil</p>
+<p align="left">- My name is Matheus Souto. I have a degree in Systems Analysis and Development, and I'm from São Paulo, Brazil.</p>
 
 ###
 
